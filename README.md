@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sheceido
 - 👀 I’m interested ... Python, HTML, CSS, JS, C#
-- 🌱 I’m currently learning ... CS50
+- 🌱 I’m currently learning ... JS, three.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Sheceido
-- 👀 I’m interested ... ThreeJS Web Applications, Game Development
-- 🌱 I’m currently learning ... three.js, Love2d, C#
+- 👀 I’m interested ... ThreeJS / Web Applications, Game Development
+- 🌱 I’m currently learning ... C#, Unity
+- 🛠️ I've recently created ...
+-  https://sheceido.github.io/PerfectStack/ :: using the Unity Game Engine to recreate a fun stacking game I played at Rec Room.
+-  https://nyghmfm.pythonanywhere.com/demo :: written primarily in html and css with a tinker of JS, along with a simple python/flask backend routing system for the NYGH MFM obstetrics clinic.
 - 💞️ I’ve recently collaborated on ...
     https://wannabeanimated.onrender.com/
-- 🛠️ I've recently created ...
--  https://nyghmfm.pythonanywhere.com/demo :: written primarily in html and css with a tinker of JS, along with a simple python/flask backend routing system for the NYGH MFM obstetrics clinic.
     
 - 📫 How to reach me ... leonpoon@hotmail.ca
 

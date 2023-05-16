@@ -1,14 +1,15 @@
 # 👋 I’m @Sheceido
 ###### 👀 I’m interested ...
+- Web Apps
 - ThreeJS
 - Game Development
-- Web Applications
 
 ###### 🌱 I’m currently learning ...
-- C# / Unity
-- React / FullStackOpen
+- C, back to basic fundamentals
 
 ###### 🛠️ I've recently created ...
+- https://www.crankychinchillas.com/ :: Built a bootstrap solution for an ecommerce web application that uses the NextJS framework, TailwindCSS, Stripe API, mailchimp API, and google analytics / google tag manager / facebook pixel for measuring stats.
+
 - https://sheceido.github.io/PerfectStack/ :: using the Unity Game Engine to recreate a fun stacking game I played at Rec Room (currently non-functional for macOS / iOS - may be due to SRP project settings).
 
 - https://sheceido.github.io/anata-no-room/ :: using the power of ThreeJS and tinkering with 3d modeling with blender, created a simple 3d room with prompts and camera functionality.

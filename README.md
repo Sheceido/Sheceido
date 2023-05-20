@@ -8,6 +8,8 @@
 - C, back to basic fundamentals
 
 ###### 🛠️ I've recently created ...
+- https://nyghids7.vercel.app/ :: A quick reference site for the IDS7 PACS system.
+
 - https://www.crankychinchillas.com/ :: Built a bootstrap solution for an ecommerce web application that uses the NextJS framework, TailwindCSS, Stripe API, mailchimp API, and google analytics / google tag manager / facebook pixel for measuring stats.
 
 - https://sheceido.github.io/PerfectStack/ :: using the Unity Game Engine to recreate a fun stacking game I played at Rec Room (currently non-functional for macOS / iOS - may be due to SRP project settings).
